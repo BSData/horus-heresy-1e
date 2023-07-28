@@ -17,6 +17,8 @@ __BattleScribe v1.15 users Notice__: _However we don't support BattleScribe v1.1
 
 __What's this?__
 
+This repo contains the Horus Heresy 1.0 Data. It is unmaintained and here for archival purposes. 
+
 BSData organisation created this project. It's a GitHub repository of datafiles.
 Maintained by community, in no way endorsed by BattleScribe or any other company/publisher. If you want
 to develop - cool! We need you! Take a look at [our homepage][BSData.net]
