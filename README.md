@@ -1,17 +1,17 @@
 Horus Heresy
 ============
 
-[![Latest release](https://img.shields.io/github/release/BSData/horus-heresy.svg?style=flat-square)](https://github.com/BSData/horus-heresy/releases/latest)
-[![Commits (since latest release)](https://img.shields.io/github/commits-since/BSData/horus-heresy/latest.svg?style=flat-square)](https://github.com/BSData/horus-heresy/releases)
-[![Open bugs](https://img.shields.io/github/issues/BSData/horus-heresy/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/horus-heresy/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
-[![Contributors](https://img.shields.io/github/contributors/BSData/horus-heresy.svg?style=flat-square)](https://github.com/BSData/horus-heresy/graphs/contributors)
-[![Commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/horus-heresy.svg?style=flat-square)](https://github.com/BSData/horus-heresy/pulse/monthly)
+[![Latest release](https://img.shields.io/github/release/BSData/horus-heresy-1e.svg?style=flat-square)](https://github.com/BSData/horus-heresy-1e/releases/latest)
+[![Commits (since latest release)](https://img.shields.io/github/commits-since/BSData/horus-heresy-1e/latest.svg?style=flat-square)](https://github.com/BSData/horus-heresy-1e/releases)
+[![Open bugs](https://img.shields.io/github/issues/BSData/horus-heresy-1e/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/horus-heresy-1e/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+[![Contributors](https://img.shields.io/github/contributors/BSData/horus-heresy-1e.svg?style=flat-square)](https://github.com/BSData/horus-heresy/graphs-1e/contributors)
+[![Commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/horus-heresy-1e.svg?style=flat-square)](https://github.com/BSData/horus-heresy-1e/pulse/monthly)
 
 [![Chat on Discord](https://img.shields.io/discord/558412685981777922.svg?logo=discord&style=popout-square)](https://www.bsdata.net/discord)
 
 ## Important
 
-__BattleScribe v1.15 users Notice__: _However we don't support BattleScribe v1.15 any longer, all the files in their last revisions for that BattleScribe are available [here](https://github.com/BSData/horus-heresy/releases/tag/6.9.3). Downloading `.bsr` file(one of the Downloads) and importing it in BattleScribe v1.15 will allow you to use these no-longer-maintained datafiles._
+__BattleScribe v1.15 users Notice__: _However we don't support BattleScribe v1.15 any longer, all the files in their last revisions for that BattleScribe are available [here](https://github.com/BSData/horus-heresy-/releases/tag/6.9.3). Downloading `.bsr` file(one of the Downloads) and importing it in BattleScribe v1.15 will allow you to use these no-longer-maintained datafiles._
 
 ## Overview ##
 
